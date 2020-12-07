@@ -1,0 +1,14 @@
+.DS_Store
+*.pth
+ref_*.ipynb
+3-model-training-and-inference.ipynb
+nn_01.ipynb
+nn_011/
+nn_02.ipynb
+nn_04.ipynb
+nn_04_kaggle.ipynb
+nn_05.ipynb
+nn_06.ipynb
+
+.ipynb_checkpoints/
+/output/
